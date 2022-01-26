@@ -1,6 +1,6 @@
 
 <div>
-  <p>I'm Japanese sunday programmer. get along!</p>
+  <p>I'm Japanese Sunday programmer. get along!</p>
   <div>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=aspulse&count_private=true&show_icons=true" />
   </div>
