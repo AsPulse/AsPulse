@@ -1,5 +1,13 @@
-### Hi there 👋
 
+<div>
+  <p>I'm Japanese sunday programmer. get along!</p>
+  <div>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=aspulse&count_private=true&show_icons=true" />
+  </div>
+  <div>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aspulse" />
+  </div>
+</div>
 <!--
 **AsPulse/AsPulse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
